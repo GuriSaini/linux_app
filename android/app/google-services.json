@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "718331653773",
+    "project_id": "linuxapp-b1edf",
+    "storage_bucket": "linuxapp-b1edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718331653773:android:589076478e7783718f3cc4",
+        "android_client_info": {
+          "package_name": "com.example.linux_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718331653773-vdijupvs93n9p2difahk04h1v4pmd7ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlwDSJuCFr71VdFzSXAHUhp4c9ipS8_aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718331653773-vdijupvs93n9p2difahk04h1v4pmd7ci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718331653773-lscoeoja9e5fnmhn9f42pear2ivq6n0m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.linuxApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
